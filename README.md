@@ -114,7 +114,7 @@ text
 ### 1. Cloner le Dépôt
 
 ```bash
-git clone https://github.com/votre-username/HealthConnect-Week5-DataScience.git
+git clone https://github.com/danichou/HealthConnect-Week5-DataScience.git
 cd HealthConnect-Week5-DataScience
 2. Créer un Environnement Virtuel
 bash
@@ -556,9 +556,9 @@ HealthConnect Clinic pour les données
 L'équipe Data Analytics pour la collaboration fructueuse
 
 📞 Contact
-Email: votre.email@analystlab.africa
+Email: sparadodaniel@gmail.com
 
-LinkedIn: Votre Profil
+LinkedIn:www.linkedin.com/in/parasoga
 
 GitHub: Votre GitHub
 
